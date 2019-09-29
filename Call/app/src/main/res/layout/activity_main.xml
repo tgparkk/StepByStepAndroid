@@ -3,32 +3,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:paddingTop="10dp"
     android:paddingBottom="10dp"
     android:paddingLeft="10dp"
-    android:paddingRight="10dp"
-    android:paddingTop="10dp" >
+    android:paddingRight="10dp">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:id="@+id/item01"
-        android:tag="전화번호"
+        android:tag="@string/tel01"
         android:clickable="true"
         android:onClick="call" >
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="성명"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="주소"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="전화번호"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/name01"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#61380B"
+            android:background="#3061380B" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/address01"
+            android:textSize="15sp"
+            android:textColor="#22741C" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tel01"
+            android:textSize="15sp"  />
     </LinearLayout>
 
     <LinearLayout
@@ -36,22 +44,30 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:id="@+id/item02"
-        android:tag="02"
+        android:tag="@string/tel02"
         android:clickable="true"
-        android:onClick="displayPicture" >
+        android:onClick="call" >
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="성명"/>
+            android:text="@string/name02"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#61380B"
+            android:background="#3061380B" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="주소"/>
+            android:text="@string/address02"
+            android:textSize="15sp"
+            android:textColor="#22741C" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="전화번호"/>
-
+            android:text="@string/tel02"
+            android:textSize="15sp"  />
     </LinearLayout>
+
 </LinearLayout>
