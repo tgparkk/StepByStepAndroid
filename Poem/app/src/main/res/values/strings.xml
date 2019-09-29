@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Poem</string>
+
+    <string name="title1">별 헤는 밤</string>
+    <string name="author1">윤동주</string>
+    <string name="body1">
+        계절이 지나가는 하늘에는
+        가을로 가득 차있읍니다.
+        나는 아무 걱정도 없이
+        가을 속의 별들을 다 헤일듯합니다.
+    </string>
+
+    <string name="title2">가지 않은 길</string>
+    <string name="author2">로버트 프로스트</string>
+    <string name="body2">
+        단풍 든 숲 속에 두 갈래 길이 있었습니다.
+        한 몸이 두 길을 가지 못하기에
+        탄식하며 한참을 서서
+        낮은 수풀로 꺾여 내려가는 길을
+        멀리 바라보았습니다.
+    </string>
+
+</resources>

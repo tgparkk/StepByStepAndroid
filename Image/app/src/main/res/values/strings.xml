@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">명화</string>
+
+    <string name="hello_world">Hello world</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Starry Night</string>
+    <string name="artist">고흐</string>
+    <string name="desc">
+빈센트 반 고흐의 대표작 중 하나로, 그가 고갱과 다툰 뒤 자신의 귀를 자른 사건 이후 생레미의 요양원에 있을 때 그린 것이다.\n
+고흐에게 밤하늘은 무한함을 표현하는 대상이었다. 비연속적이고 동적인 터치로 그려진 하늘은 굽이치는 두꺼운 붓놀림으로 사이프러스와 연결괴고, 그 아래의 마을은 대조적으로 고요하고 평온한 상태를 보여준다.\n
+그는 병실 밖으로 내다보이는 밤 풍경을 상상과 결합시켜 그렸는데, 이는 자연에 대한 반 고흐의 내적이고 주관적인 표현을 구현하고 있다.
+    </string>
+
+</resources>
