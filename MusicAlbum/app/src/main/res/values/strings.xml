@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">음악 앨범</string>
+
+    <string name="title1">학교종</string>
+    <string name="artist1">김메리</string>
+    <string name="time1">00:00:19</string>
+    <string name="audio1">schoolbell</string>
+    <string name="song_image1">img_schoolbell</string>
+    <string name="lyrics1">
+    학교종이 땡땡땡\n어서 모이자\n
+    선생님이 우리를\n기다리신다
+    </string>
+
+    <string name="title2">코끼리아저씨</string>
+    <string name="artist2">강소현/박태현</string>
+    <string name="time2">00:00:16</string>
+    <string name="audio2">elephant</string>
+    <string name="song_image2">img_elephant</string>
+    <string name="lyrics2">
+    코끼리 아저씨는\n코가 손이래\n
+    과자를 주면은\n코로 받지요
+    </string>
+
+    <string name="title3">산토끼</string>
+    <string name="artist3">이일래</string>
+    <string name="time3">00:00:16</string>
+    <string name="audio3">hare</string>
+    <string name="song_image3">img_hare</string>
+    <string name="lyrics3">
+    산토끼 토끼야\n어디를 가느냐\n
+    깡총깡총 뛰면서\n어디를 가느냐
+    </string>
+</resources>

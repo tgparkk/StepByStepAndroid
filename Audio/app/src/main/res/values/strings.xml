@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">노래 재생</string>
+
+    <string name="title">산토끼</string>
+    <string name="lyrics">
+    산토끼 토끼야\n
+    어디를 가느냐\n
+    깡총깡총 뛰면서\n
+    어디를 가느냐
+</string>
+</resources>
