@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">비디오 앨범</string>
+
+    <string name="title1">밤의 분수대</string>
+    <string name="place1">예술의 전당</string>
+    <string name="video1">fountain_night</string>
+
+    <string name="title2">작은 계곡</string>
+    <string name="place2">양평</string>
+    <string name="video2">creek_rock</string>
+
+    <string name="title3">길 위의 폭포</string>
+    <string name="place3">청계천</string>
+    <string name="video3">waterfall_street</string>
+</resources>

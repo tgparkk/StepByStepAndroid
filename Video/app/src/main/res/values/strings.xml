@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">동영상 재생</string>
+
+    <string name="title1">분수대</string>
+    <string name="place1">예술의 전당</string>
+    <string name="time1">00:00:12</string>
+</resources>
