@@ -25,7 +25,7 @@ public class Picture extends AppCompatActivity {
         String tag  = it.getStringExtra("it_tag");
 
         Resources res = getResources();
-
+                                            //xml 의 id
         int id_title = res.getIdentifier("title" + tag, "string", getPackageName());
         String title = res.getString(id_title);
         tv_title.setText(title);
